@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an experienced freelance web developer, I have been studying programming and computer networks since I was 15 years old, I am currently pursuing a degree in systems engineering.
+I am an experienced freelance web developer, I have been studying programming and computer networks since I was 17 years old, I am currently pursuing a degree in systems engineering.
 
 
 ## 🌐 Socials:
